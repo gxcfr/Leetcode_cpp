@@ -17,7 +17,6 @@ public:
                 maxEnd = interval[1];
             }
         }
-
         return count;
     }
 };
